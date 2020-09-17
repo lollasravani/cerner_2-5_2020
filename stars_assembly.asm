@@ -10,7 +10,7 @@ section .text
  %define Enjoy int
  %define Coding section
 main:
-Happy edx,9
+Happy edx,32
 Programmers ecx, AllTheBest
 Day ebx,1
 to eax,4
