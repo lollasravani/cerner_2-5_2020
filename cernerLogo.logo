@@ -1,0 +1,4 @@
+//cerner_2^5_2020
+//Please remove the comments and run the program.
+//The program will draw Cerner Logo.
+lt 135 fd 30 rt 45 fd 110 rt 45 fd 30 rt 90 fd 30 rt 45 fd 140 lt 45 pu fd 30 lt 135 pd fd 160 rt 45 fd 30 rt 45 fd 30 rt 45 fd 30 rt 45 fd 110 rt 45 fd 30
