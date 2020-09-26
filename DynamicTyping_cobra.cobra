@@ -1,0 +1,14 @@
+# cerner_2^5_2020
+# Dynamic typing in COBRA
+class IntegerType
+    get contest as int
+        return 32
+class StringType
+    get contest as String
+        return 'Cerner_2^5_2020'
+class Program
+    def main
+        .printContest(IntegerType())
+        .printContest(StringType())
+    def printContest(x)
+        print x.contest
