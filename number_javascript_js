@@ -1,7 +1,5 @@
-<script>
 //cerner_2^5_2020
 // This program will show that number is considered accurate only upto 15 digits
 var x = 999999999999999;
 var y = 9999999999999999;
 window.alert(x + "   " + y)
-</script>
