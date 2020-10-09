@@ -1,4 +1,4 @@
-' cerner2^5_2020
+' cerner_2^5_2020
 ' The below program prints a pattern
 Module Pattern
 Sub Main()
